@@ -1,0 +1,10 @@
+﻿  GameLogic.cpp
+c:\users\atents\source\repos\20181008 지렁이게임\20181008 지렁이게임\gamescene.h(15): error C7525: 인라인 변수에는 '/std:c++17' 이상이 필요합니다.
+c:\users\atents\source\repos\20181008 지렁이게임\20181008 지렁이게임\gamescene.h(15): error C2059: 구문 오류: 'return'
+c:\users\atents\source\repos\20181008 지렁이게임\20181008 지렁이게임\gamescene.h(15): error C2059: 구문 오류: '}'
+c:\users\atents\source\repos\20181008 지렁이게임\20181008 지렁이게임\gamescene.h(15): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\atents\source\repos\20181008 지렁이게임\20181008 지렁이게임\gamescene.h(21): error C2059: 구문 오류: '<L_GRAMMAR_end_class>'
+c:\users\atents\source\repos\20181008 지렁이게임\20181008 지렁이게임\gamelogic.cpp(5): fatal error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
+  'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe'에서 내부 컴파일러 오류
+      자세한 내용을 보려면 Visual C++ [도움말] 메뉴에서
+   [기술 지원] 명령을 선택하거나 기술 지원 도움말 파일을 참조하십시오.
